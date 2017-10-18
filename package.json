@@ -1,0 +1,18 @@
+{
+  "name": "@types/ag-grid",
+  "version": "10.0.0",
+  "description": "Types for ag-grid",
+  "main": "",
+  "publishConfig": {
+    "registry": "https://nexus3.acadiasoft.net/repository/npm-internal/"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "Alessio Fimognari",
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "ag-grid": "13.3.1"
+  }
+}
