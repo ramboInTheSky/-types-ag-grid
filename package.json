@@ -1,8 +1,8 @@
 {
   "name": "@types/ag-grid",
-  "version": "10.0.0",
+  "version": "10.0.1",
   "description": "Types for ag-grid",
-  "main": "",
+  "main": "index",
   "publishConfig": {
     "registry": "https://nexus3.acadiasoft.net/repository/npm-internal/"
   },
